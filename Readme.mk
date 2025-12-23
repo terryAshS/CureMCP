@@ -1,1 +1,1 @@
-an mcp for audio cure
+一个音乐疗法的mcp，可以根据用户输入的“症状”，匹配出疗愈音频的url
