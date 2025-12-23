@@ -1,6 +1,6 @@
 from fastmcp import FastMCP
 
-mcp = FastMCP("Audio Cure")
+mcp = FastMCP("com.hc.audio.cure")
 
 @mcp.tool
 def getPainAudio() -> str:
